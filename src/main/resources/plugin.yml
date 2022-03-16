@@ -1,0 +1,6 @@
+name: WorldColor
+version: '${project.version}'
+main: ru.er1one.worldcolor.WorldColor
+api-version: 1.16
+authors: [ er1one ]
+website: https://vk.com/er1one
