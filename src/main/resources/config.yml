@@ -1,0 +1,12 @@
+#
+# WorldColor by er1one (vk.com/er1one)
+#  %worldcolor_name% - Возвращает цветной никнейм игрока
+#
+settings:
+  auto-replace: false # Плагин сам заменит никнейм в табе на цветной (Не нужно, если используете плагины по типу TAB)
+  placeholder: true # Требуется PlaceholderAPI и заполнитель %worldcolor_name%, вместо никнейма игрока
+worlds:
+  # название_мира: "Манипуляции с никнеймом игрока"
+  world: "#00FA9A%player_name%"
+  world_the_end: "#8A2BE2%player_name%"
+  world_nether: "#DC143C%player_name%"
